@@ -19,6 +19,6 @@ Mi nombre es Diego y soy estudiante de cuarto semestre en la **Universidad Libre
 Estoy expandiendo mis conocimientos en tecnologías en nuevos lenguajes de programacion y arquitectura en la nube de Microsoft Azure.
 
 ## 📫 ¿Cómo contactarme?
-Puedes enviarme un correo a [diego.pfinogmail.com](diego.pfino@gmail.com) o seguirme en [LinkedIn](https://www.linkedin.com/in/diego-pati%C3%B1o-299414311/).
+Puedes enviarme un correo a [diego.pfino@gmail.com](diego.pfino@gmail.com) o seguirme en [LinkedIn](https://www.linkedin.com/in/diego-pati%C3%B1o-299414311/).
 
 ### ¡Gracias por visitar mi perfil de GitHub!
