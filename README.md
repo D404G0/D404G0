@@ -4,8 +4,7 @@
 Mi nombre es Diego y soy estudiante de cuarto semestre en la **Universidad Libre de Colombia**. Estoy apasionado por la tecnología y el desarrollo de software.
 
 ## 🎓 Educación
-![Logo Universidad](https://comunicacionesbogota.unilibre.edu.co/wp-content/uploads/2019/02/logo-ul-06.png)  
-**Universidad Libre de Colombia**  
+![Logo Universidad](https://comunicacionesbogota.unilibre.edu.co/wp-content/uploads/2019/02/logo-ul-06.png)   
 
 ## 💻 Habilidades Técnicas
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
